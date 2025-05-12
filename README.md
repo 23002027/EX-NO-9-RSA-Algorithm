@@ -1,9 +1,6 @@
 # EX-NO-9-RSA-Algorithm
 
 
-## NAME:GOKUL PRAKASH M
-## REG NO: 212223240041
-
 
 ## AIM:
 To Implement RSA Encryption Algorithm in Cryptography
